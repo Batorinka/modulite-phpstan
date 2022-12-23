@@ -1,7 +1,7 @@
 {
-  "name": "vkcom/modulite-phpstan",
+  "name": "taxi/modulite-phpstan",
   "type": "phpstan-extension",
-  "description": "A PHPStan plugin providing Modulite support for plain PHP (not KPHP) projects",
+  "description": "Fork for vkcom/modulite-phpstan. A PHPStan plugin providing Modulite support for plain PHP (not KPHP) projects",
   "require": {
     "php": "^7.4 || ^8.0",
     "phpstan/phpstan": "^1.8",
